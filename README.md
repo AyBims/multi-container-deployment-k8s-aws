@@ -7,12 +7,6 @@ A single-instance Redis to store guestbook entries
 Multiple web frontend instances
 
 ## Running the app (Deploying To AWS)
-There are some prequisites that must be met before you can run the program, they include:
-
-- An AWS account
-- A github account
-- AWS CLI configured
-- EKSCTL installed
-
+Please refer to this article for a detailed guide on how to implement this project. You can find it [here](https://dev.to/aybims/deploying-a-multi-container-application-using-aws-eks-5g8e)!
 
 
